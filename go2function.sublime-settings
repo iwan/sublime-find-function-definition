@@ -14,6 +14,7 @@
     "$NAME$ = function",
     "$NAME$= function",
     "$NAME$=function",
-    "def $NAME$("
+    "def $NAME$(",
+    "def $NAME$"
   ]
 }
